@@ -1,0 +1,27 @@
+{
+  "1": {
+    "Nome": "Naruto",
+    "SaldoInvestimentos": 10000,
+    "Mensagem": "Oi, Naruto Sabia que seus investimentos podem mudar seu futuro financeiro? Seu saldo de investimentos atual: 10000R$, invista."
+  },
+  "2": {
+    "Nome": "Leorio",
+    "SaldoInvestimentos": 15000,
+    "Mensagem": "Oi, Leorio Sabia que seus investimentos podem mudar seu futuro financeiro? Seu saldo de investimentos atual: 15000R$, invista."
+  },
+  "3": {
+    "Nome": "Kilua",
+    "SaldoInvestimentos": 20000,
+    "Mensagem": "Oi, Kilua Sabia que seus investimentos podem mudar seu futuro financeiro? Seu saldo de investimentos atual: 20000R$, invista."
+  },
+  "4": {
+    "Nome": "Felca",
+    "SaldoInvestimentos": 5000,
+    "Mensagem": "Oi, Felca Sabia que seus investimentos podem mudar seu futuro financeiro? Seu saldo de investimentos atual: 5000R$, invista."
+  },
+  "5": {
+    "Nome": "Cellbit",
+    "SaldoInvestimentos": 25000,
+    "Mensagem": "Oi, Cellbit Sabia que seus investimentos podem mudar seu futuro financeiro? Seu saldo de investimentos atual: 25000R$, invista."
+  }
+}
